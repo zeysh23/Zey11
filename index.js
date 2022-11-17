@@ -302,7 +302,7 @@ const mark_slebew = '0@s.whatsapp.net'
 const more = String.fromCharCode(8206)
 const strip_ny = more.repeat(4001)
 var footer_nya =`𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 @${setting.ownerNumber.split("@")[0]}`
-let menu_nya = `───「 *ZUDAN & SHARLA* 」────
+let menu_nya = `───「 ZUDAN & SHARLA 」────`
 
  ${ucapanWaktu} ${cekUser("name", sender)} 👋🏻
 
