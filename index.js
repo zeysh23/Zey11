@@ -313,7 +313,6 @@ let menu_nya = `───「 𝗚𝗨𝗥𝗔𝗕𝗢𝗧-𝗠𝗗 」───�
 
  𝗕𝗢𝗧 𝗜𝗡𝗙𝗢
  • BotName : ${setting.botName}
- • Library : 𝗕𝗮𝗶𝗹𝗲𝘆𝘀-𝗠𝗗
  • Time : ${jam} WIB
  • Date : ${tanggal}
  • Terdaftar : ${("id", db_user).length}
